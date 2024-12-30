@@ -10,4 +10,3 @@ There are two python files:
 
 2- backend.py (where the main functional code is defined)
 
-If you have any questions, feel free to reach out at: https://twitter.com/ZuburuDubuda
